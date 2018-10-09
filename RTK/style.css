@@ -1,5 +1,5 @@
 p {
-	color: #ffffff
+	color: #ffffff;
 	font-family: Arial, Helvetica,sans-serif;
 	text-align: center;
 	font-style: italic;
@@ -14,7 +14,7 @@ h1 {
 }
 
 .container{
-	background-color: #646458;
+	background-color: #4C4B41;
 
 	text-align: center;
 	color: #ffffff;
@@ -30,6 +30,7 @@ h2 {
 
 h3{
 	font-family: 'Muli', sans-serif;
+	background-color: #4C4B41;
 }
 
 
