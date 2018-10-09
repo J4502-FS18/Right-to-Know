@@ -7,7 +7,7 @@ p {
 	font-style: italic;
 }
 
-h1 {
+h2 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
@@ -23,14 +23,14 @@ h1 {
 }
 
 
-h2 {
+h3 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
 }
 
 
-h3{
+h1{
 	font-family: 'Muli', sans-serif;
 	font-family: 'Muli', Helvetica, sans-serif;
 
@@ -47,7 +47,7 @@ body{
 	background-color:#FFFFFF;
 }
 
-h3 {
+h1 {
 
     background-color: #4C4B41;
    font-size:1.5rem ;
