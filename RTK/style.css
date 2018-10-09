@@ -75,8 +75,8 @@ div{
 
 #nav a:link, a:visited {
 	display:block;
-    color: #ffffff;
-    background-color: #f8cd52;
+    color: #000000;
+    background-color: #E8AD0C;
     font-weight: lighter;
     text-align:center;
     text-decoration: none;
@@ -85,7 +85,7 @@ div{
 }
 
 #nav a:hover, a:active {
-    background-color: #FFFB5A;
+    background-color: #FFD200;
 }
 
 #footer {
