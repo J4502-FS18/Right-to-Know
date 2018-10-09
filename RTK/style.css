@@ -54,6 +54,8 @@ body{
 #BRS {
 	background-image: url("photo2.jpg") ;
   background-size: 300px 300px ;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 div{
 	background-image:
@@ -62,6 +64,8 @@ div{
 #NRC {
 	background-image: url("photo1.jpg") ;
   background-size: 300px 300px ;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #RCRIS {
