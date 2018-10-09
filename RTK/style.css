@@ -1,0 +1,113 @@
+p {
+	color: #ffffff
+	font-family: Arial, Helvetica,sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+
+h1 {
+	font-family: monospace, lucida;
+	text-align: center;
+	color: #ffffff;
+
+
+}
+
+.container{
+	background-color: #646458;
+
+	text-align: center;
+	color: #ffffff;
+}
+
+
+h2 {
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+	color: #ffffff;
+}
+
+
+h3{
+	font-family: 'Muli', sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+
+}
+body{
+	background-color:#FFFFFF;
+}
+
+h3 {
+
+    background-color: #646458;
+   font-size:1.5rem ;
+
+}
+#BRS {
+	background-image: url("photo2.jpg") ;
+  background-size: 300px 300px ;
+}
+div{
+	background-image:
+
+}
+#nav {
+    padding: 0;
+	list-style-type: none;
+}
+
+#nav li {
+    margin: 0;
+    padding: 0;
+	border-bottom: 1px solid #ccc;
+	text-decoration: none;
+
+
+}
+
+#nav a:link, a:visited {
+	display:block;
+    color: #ffffff;
+    background-color: #f8cd52;
+    font-weight: lighter;
+    text-align:center;
+    text-decoration: none;
+    padding: 4px;
+    font-family: monospace, lucida;
+}
+
+#nav a:hover, a:active {
+    background-color: #FFFB5A;
+}
+
+#footer {
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 0.8em;
+	border-top: 1px solid black;
+	background-color: #FFFFFF
+}
+
+image{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+{}

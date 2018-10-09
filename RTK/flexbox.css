@@ -1,0 +1,41 @@
+
+ul {
+	display: flex;
+	flex-direction: column;
+}
+
+li{
+	flex: 1 1 auto;
+}
+
+@media (min-width: 600px) {
+	.container {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+  ul {
+		flex-direction: row;
+	justify-content: space-between;
+}
+	}
+@media (min-width: 800px) {
+
+div{
+	margin-right: auto;
+}
+	.item-1 {
+		margin-right: auto;
+	}
+	.item-2 {
+		margin-right: auto;
+	}
+	.item-3 {
+		margin-right: auto;
+	}
+	.item-4 {
+		margin-right: auto;
+	}
+	.item-5 {
+		margin-right: auto;
+	}
+}
