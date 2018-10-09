@@ -1,12 +1,12 @@
 p {
 	color: #ffffff
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	font-style: italic;
 }
 
 h1 {
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
 
@@ -22,14 +22,14 @@ h1 {
 
 
 h2 {
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
 }
 
 
 h3{
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', Helvetica, sans-serif;
 }
 
 
@@ -81,7 +81,7 @@ div{
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: 'Muli', sans-serif;
+    font-family: 'Muli', Helvetica, sans-serif;
 }
 
 #nav a:hover, a:active {
@@ -90,7 +90,7 @@ div{
 
 #footer {
 	color: black;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', Helvetica, sans-serif;
 	font-size: 0.8em;
 	border-top: 1px solid black;
 	background-color: #FFFFFF
