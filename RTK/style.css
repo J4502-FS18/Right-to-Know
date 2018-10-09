@@ -75,6 +75,19 @@ div{
 	background-size: cover;
 }
 
+#RMP {
+	background-image: url("photo4.jpg") ;
+  background-size: 300px 300px ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#TRI{
+	background-image: url("photo5.jpg") ;
+  background-size: 300px 300px ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 #nav {
     padding: 0;
