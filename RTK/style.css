@@ -64,6 +64,11 @@ div{
   background-size: 300px 300px ;
 }
 
+#RCRIS {
+	background-image: url("photo1.jpg") ;
+  background-size: 300px 300px ;
+}
+
 #nav {
     padding: 0;
 	list-style-type: none;
