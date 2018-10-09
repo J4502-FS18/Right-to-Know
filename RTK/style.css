@@ -1,6 +1,11 @@
 p {
+<<<<<<< HEAD
+	color: #ffffff;
+	font-family: Arial, Helvetica,sans-serif;
+=======
 	color: #ffffff
 	font-family: 'Muli', Helvetica, sans-serif;
+>>>>>>> 9fcc14ac4f4d84366c1b8b5140c0d7e64cc4f3fe
 	text-align: center;
 	font-style: italic;
 }
@@ -14,7 +19,7 @@ h1 {
 }
 
 .container{
-	background-color: #646458;
+	background-color: #4C4B41;
 
 	text-align: center;
 	color: #ffffff;
@@ -29,7 +34,12 @@ h2 {
 
 
 h3{
+<<<<<<< HEAD
+	font-family: 'Muli', sans-serif;
+	background-color: #4C4B41;
+=======
 	font-family: 'Muli', Helvetica, sans-serif;
+>>>>>>> 9fcc14ac4f4d84366c1b8b5140c0d7e64cc4f3fe
 }
 
 
