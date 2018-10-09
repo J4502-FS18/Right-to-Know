@@ -1,11 +1,8 @@
 p {
-<<<<<<< HEAD
 	color: #ffffff;
 	font-family: Arial, Helvetica,sans-serif;
-=======
 	color: #ffffff
 	font-family: 'Muli', Helvetica, sans-serif;
->>>>>>> 9fcc14ac4f4d84366c1b8b5140c0d7e64cc4f3fe
 	text-align: center;
 	font-style: italic;
 }
@@ -34,12 +31,8 @@ h2 {
 
 
 h3{
-<<<<<<< HEAD
 	font-family: 'Muli', sans-serif;
-=======
 	font-family: 'Muli', Helvetica, sans-serif;
->>>>>>> 9fcc14ac4f4d84366c1b8b5140c0d7e64cc4f3fe
-}
 
 
 ul {
