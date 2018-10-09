@@ -11,6 +11,7 @@ h2 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
+  margin: 3px, auto;
 
 
 }
@@ -54,27 +55,13 @@ body{
 #BRS {
 	background-image: url("photo2.jpg") ;
   background-size: 300px 300px ;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-div{
-	background-image:
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-#NRC {
-	background-image: url("photo1.jpg") ;
-  background-size: 300px 300px ;
-	background-repeat: no-repeat;
-	background-size: cover;
+.search{
+  font-size:
 }
-
-#RCRIS {
-	background-image: url("photo3.jpg") ;
-  background-size: 300px 300px ;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
 
 #nav {
     padding: 0;
@@ -86,9 +73,10 @@ div{
     padding: 0;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
-
-
 }
+
+
+
 
 #nav a:link, a:visited {
 	display:block;
@@ -113,18 +101,16 @@ div{
 	background-color: #FFFFFF
 }
 
+#About {
+color:black;
+  width:100px ;
+  height:30px ;
+  background-color:#E8AD0C;
+  margin: 0 auto;
+}
+
+h3{text-decoration: none;}
+
 image{
 	border:none;
 }
-
-
-
-
-
-
-
-
-
-
-
-{}
