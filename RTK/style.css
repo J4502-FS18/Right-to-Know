@@ -159,6 +159,13 @@ h4{
 	  background-color: #FFD200;
 }
 
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 
 
 
