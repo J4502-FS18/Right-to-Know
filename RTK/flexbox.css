@@ -38,4 +38,8 @@ div{
 	.item-5 {
 		margin-right: auto;
 	}
+
+	.email{
+		align-content: center;
+	}
 }
