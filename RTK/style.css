@@ -149,11 +149,10 @@ h4{
     color: #4C4B41;
     background-color: #E8AD0C;
     font-weight: bold;
-    text-align:center;
+    text-align: center;
     text-decoration: none;
     padding: 4px;
     font-family: 'Muli', Helvetica, sans-serif;
-		width: 50%;
 }
 
 .email a:hover, a:active{
