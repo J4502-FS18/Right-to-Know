@@ -138,7 +138,7 @@ h4{
 }
 
 .email{
-	color: #4C4B41;
+	color: #FFFFFF;
 	text-decoration: none;
 	weight: bold;
 	text-align: center;
@@ -146,7 +146,7 @@ h4{
 
 .email a:link, a:visited{
 	display:block;
-    color: #4C4B41;
+    color: white;
     background-color: #E8AD0C;
     font-weight: bold;
     text-align: center;
@@ -166,14 +166,86 @@ h4{
 	width: 20%;
 }
 
+#About {
+color:black;
+  width:100px ;
+  height:30px ;
+  background-color:#E8AD0C;
+  margin: 0 auto;
+}
 
+.brstext p{
+  color:black;
+  font-family: 'Muli', Helvetica, sans-serif;
+  font-size: 0.8em;
+	text-align: left;
+}
 
+#brsdatabase {
+	color: #ffffff;
+	font-family: Arial, Helvetica,sans-serif;
+	color: #ffffff;
+	font-family: 'Muli', Helvetica, sans-serif;
+	text-align: center;
+	font-style: italic;
+}
 
+#brscontainer {
+	background-image: url("photo2.jpg") ;
+  background-size: 300px 300px ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
+#brscontainer h2{
+	margin: 0;
+}
 
+#brsdatabase a{
+	color:white;
+}
 
+.flex-container ul {
+	display: flex;
+	flex-direction: column;
+}
 
+.flex-container li{
+	flex: 1 1 auto;
+}
 
+@media (min-width: 600px) {
+	.container {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+  ul {
+		flex-direction: row;
+	justify-content: space-between;
+}
+	}
+@media (min-width: 800px) {
 
+div{
+	margin-right: auto;
+}
+	.item-1 {
+		margin-right: auto;
+	}
+	.item-2 {
+		margin-right: auto;
+	}
+	.item-3 {
+		margin-right: auto;
+	}
+	.item-4 {
+		margin-right: auto;
+	}
+	.item-5 {
+		margin-right: auto;
+	}
 
-{}
+#contacttext p{
+  color:#000000;
+	text-align:left;
+}
