@@ -244,3 +244,8 @@ div{
 	.item-5 {
 		margin-right: auto;
 	}
+
+#contacttext p{
+  color:#000000;
+	text-align:left;
+}
