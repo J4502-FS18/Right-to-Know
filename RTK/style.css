@@ -205,17 +205,17 @@ color:black;
 	color:white;
 }
 
-.flex-container ul {
+ul {
 	display: flex;
 	flex-direction: column;
 }
 
-.flex-container li{
+li{
 	flex: 1 1 auto;
 }
 
 @media (min-width: 600px) {
-	.container {
+	.flex-container {
 		flex-direction: row;
 		justify-content: space-between;
 	}
