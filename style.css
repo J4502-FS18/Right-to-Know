@@ -265,6 +265,14 @@ div{
 		margin-right: auto;
 	}
 
+.chatter{
+	color: black;
+}
+
+.table{
+	color:#E8AD0C;
+}
+
 #contacttext p{
   color:#000000;
 	text-align:left;
