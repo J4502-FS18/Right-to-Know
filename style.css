@@ -267,13 +267,25 @@ div{
 	color: black;
 	margin-left: 20px;
 	margin-right: 20px;
+	text-decoration: none;
 }
 
 .table{
 	color:#E8AD0C;
 }
 
+.info{
+	color: black;
+	text-align: left;
+	text-decoration: none;
+}
+
 #contacttext p{
   color:#000000;
 	text-align:left;
+}
+
+table{
+	display: grid;
+	padding-top: 20px;
 }
