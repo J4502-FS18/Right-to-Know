@@ -11,8 +11,10 @@ h2 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
-
-
+	text-shadow: -1px 1px 0 #000,
+				  2px 2px 0 #000,
+				 1px -1px 0 #000;
+				-2px -2px 0 #000;
 }
 
 .container{
@@ -26,6 +28,11 @@ h2 {
 h3 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
+	font-weight: bolder;
+	text-shadow: -1px 1px 0 #000,
+				  2px 2px 0 #000,
+				 1px -1px 0 #000;
+				-2px -2px 0 #000;
 	color: #ffffff;
 	width:150px ;
 	height:30px ;
@@ -38,6 +45,10 @@ h1{
 	font-family: 'Muli', Helvetica, sans-serif;
 	background-color: #4C4B41;
  font-size:1.5rem ;
+ text-shadow: -1px 1px 0 #000,
+				 2px 2px 0 #000,
+				1px -1px 0 #000;
+			 -2px -2px 0 #000;
 
 }
 
@@ -106,8 +117,10 @@ div{
     padding: 0;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
-
-
+	text-shadow: -.5px .5px 0 #000,
+				  1px 1px 0 #000,
+				 .5px -.5px 0 #000;
+				-1px -1px 0 #000;
 }
 
 #nav a:link, a:visited {
