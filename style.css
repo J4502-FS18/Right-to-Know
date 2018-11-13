@@ -11,10 +11,10 @@ h2 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	color: #ffffff;
-	text-shadow: -1px 1px 0 #000,
-				  2px 2px 0 #000,
-				 1px -1px 0 #000;
-				-2px -2px 0 #000;
+	text-shadow: -.5px .5px 0 #000,
+				  1px 1px 0 #000,
+				 .5px -.5px 0 #000;
+				-1px -1px 0 #000;
 }
 
 .container{
@@ -29,10 +29,10 @@ h3 {
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	font-weight: bolder;
-	text-shadow: -1px 1px 0 #000,
-				  2px 2px 0 #000,
-				 1px -1px 0 #000;
-				-2px -2px 0 #000;
+	text-shadow: -.5px .5px 0 #000,
+				  1px 1px 0 #000,
+				 .5px -.5px 0 #000;
+				-1px -1px 0 #000;
 	color: #ffffff;
 	width:150px ;
 	height:30px ;
@@ -202,8 +202,6 @@ color:white;
 }
 
 #brsdatabase {
-	color: #ffffff;
-	font-family: Arial, Helvetica,sans-serif;
 	color: #ffffff;
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
