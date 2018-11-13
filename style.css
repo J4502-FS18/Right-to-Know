@@ -232,6 +232,10 @@ li{
 	flex: 1 1 auto;
 }
 
+.searchtype{
+	color: black;
+}
+
 @media (min-width: 600px) {
 	.flex-container {
 		flex-direction: row;
