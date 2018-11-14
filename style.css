@@ -74,6 +74,7 @@ body{
   background-size: 300px 300px ;
 	background-repeat: no-repeat;
 	background-size: cover;
+	grid-area:a;
 }
 #BRS a{text-decoration: none;}
 
@@ -87,29 +88,37 @@ div{
  background-size: 300px 300px ;
 	background-repeat: no-repeat;
 	background-size: cover;
+	grid-area:b;
 }
 #NRC a{text-decoration: none;}
+
 #RCRIS {
 	background-image: url("photo3.jpg") ;
   background-size: 300px 300px ;
 	background-repeat: no-repeat;
 	background-size: cover;
+	grid-area:c;
 }
 #RCRIS a{text-decoration: none;}
+
 #RMP {
 	background-image: url("photo4.jpg") ;
   background-size: 300px 300px ;
 	background-repeat: no-repeat;
 	background-size: cover;
+	grid-area:d;
 }
 #RMP a{text-decoration: none;}
+
 #TRI{
 	background-image: url("photo5.jpg") ;
   background-size: 300px 300px ;
 	background-repeat: no-repeat;
 	background-size: cover;
+	grid-area:e;
 }
 #TRI a{text-decoration: none;}
+
 #nav {
     padding: 0;
 	list-style-type: none;
