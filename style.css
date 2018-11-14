@@ -295,9 +295,16 @@ div{
 table{
 	display: grid;
 	padding-top: 20px;
-	
+	width: 100%;
 }
 
 .thead {
 	background-color: #E8AD0C;
+	text-align: center;
+}
+
+th,td {
+	border: 1px solid black;
+	width: 10%;
+
 }
