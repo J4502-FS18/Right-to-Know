@@ -279,6 +279,15 @@ div{
 		margin-right: auto;
 	}
 
+	@media screen and (min-width: 1200px) {
+	  article {
+	    display: grid;
+	    grid-template-columns: 200px 1fr 1fr 1fr;
+	    grid-gap: 20px;
+	    grid-template-areas:
+	    "a b c d e"
+	  }
+
 .chatter{
 	color: black;
 	margin-left: 20px;
