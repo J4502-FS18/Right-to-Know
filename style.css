@@ -295,4 +295,9 @@ div{
 table{
 	display: grid;
 	padding-top: 20px;
+	
+}
+
+.thead {
+	background-color: #E8AD0C;
 }
