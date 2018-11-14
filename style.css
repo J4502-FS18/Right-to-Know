@@ -65,6 +65,9 @@ body{
 	background-color:#FFFFFF;
 }
 
+#RMPSearch{
+	background-size: 300px 300px;
+}
 
 #BRS {
 	background-image: url("photo2.jpg") ;
