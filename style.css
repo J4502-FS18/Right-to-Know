@@ -315,10 +315,7 @@ div{
 	text-decoration: none;
 }
 
-#contacttext p{
-  color:#000000;
-	text-align:left;
-}
+
 
 table{
 	display: grid;
@@ -366,6 +363,14 @@ th,td {
 	grid-area:f;
 }
 
+#image{
+	grid-area: g;
+}
+
+#contacttext{
+	grid-area: h;
+}
+
 
 #gridbox{
 width: 100%;
@@ -380,3 +385,11 @@ width: 100%;
 			"f . ";
 }
 }
+
+@media screen and (min-width: 1000px) {
+	article {
+		display: grid;
+		grid-gap: 20px;
+		grid-template-areas:
+		"g h "
+	}
