@@ -1,7 +1,7 @@
 p {
-	color: #ffffff;
+	color: #000000;
 	font-family: Arial, Helvetica,sans-serif;
-	color: #ffffff;
+	color: #000000;
 	font-family: 'Muli', Helvetica, sans-serif;
 	text-align: center;
 	font-style: italic;
@@ -89,8 +89,10 @@ body{
 }
  .cards-1{
 background-color: #f4f4f4;
-  /* background-size: 300px 300px ; */
 	background-repeat: no-repeat;
+	background-size: cover;
+	grid-area:a;
+
 }
 .cards-1 h2{
 	margin-top: 5px;
@@ -134,7 +136,6 @@ a.black:link, a.black:visted{
     text-decoration: none;
     font-family: 'Muli', Helvetica, sans-serif;
 }
-
 
 
 #nav {
@@ -252,11 +253,17 @@ li{
 	flex: 1 1 auto;
 }
 
+
 #window{
 	display: none;
 }
 
 
+
+
+.searchtype{
+	color: black;
+}
 
 @media (min-width: 600px) {
 	.flex-container {
@@ -289,6 +296,14 @@ div{
 		margin-right: auto;
 	}
 
+	@media screen and (min-width: 1200px) {
+	  article {
+	    display: grid;
+	    grid-gap: 20px;
+	    grid-template-areas:
+	    "a b c d e"
+	  }
+
 .chatter{
 	color: black;
 	margin-left: 20px;
@@ -314,6 +329,17 @@ div{
 table{
 	display: grid;
 	padding-top: 20px;
+	width: 100%;
+}
+
+.thead {
+	background-color: #E8AD0C;
+	text-align: center;
+}
+
+th,td {
+	border: 1px solid black;
+	width: 10%;
 }
 
 
