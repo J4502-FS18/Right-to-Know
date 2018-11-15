@@ -12,7 +12,6 @@ h2 {
 	margin-left: 50px;
 	margin-top: 5px;
 	color: black;
-
 }
 
 .container{
@@ -304,6 +303,7 @@ div{
 
 .table{
 	color:#E8AD0C;
+	text-align: center;
 }
 
 .info{
@@ -318,6 +318,7 @@ table{
 	display: grid;
 	padding-top: 20px;
 	width: 100%;
+	padding: 20px;
 }
 
 .thead {
