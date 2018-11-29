@@ -374,8 +374,12 @@ th,td {
 #contacttext{
 	grid-area: h;
 	padding-right:20px;
+	text-align: justify;
 }
 
+.email{
+	font-family:'Muli', Helvetica, sans-serif; 
+}
 
 #gridbox{
 width: 100%;
