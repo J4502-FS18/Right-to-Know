@@ -22,6 +22,15 @@ height: 50px;
 	color: #ffffff;
 }
 
+#email{
+	color: white;
+	font-family: 'Muli', Helvetica, sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	background-color: #82806F;
+}
+
 .container img{
 	margin-top: 13px;
 }
