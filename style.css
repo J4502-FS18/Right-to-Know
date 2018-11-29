@@ -273,7 +273,7 @@ li{
 @media (min-width: 800px) {
 
 div{
-	margin-right: auto;
+
 }
 	.item-1 {
 		margin-right: auto;
@@ -359,10 +359,12 @@ th,td {
 
 #image{
 	grid-area: g;
+	padding-left: 20px;
 }
 
 #contacttext{
 	grid-area: h;
+	padding-right:20px;
 }
 
 
