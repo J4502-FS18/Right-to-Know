@@ -188,6 +188,8 @@ a.black:link, a.black:visted{
 	padding-top: 15px;
 	color: white;
 	font-family: 'Muli', Helvetica, sans-serif;
+	text-align:center;
+	font-style: italic;
 }
 image{
 	border:none;
