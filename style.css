@@ -185,6 +185,7 @@ a.black:link, a.black:visted{
 }
 #footer p{
 	font-size: 0.8em;
+	font-style: italic;
 	padding-top: 15px;
 	color: white;
 	font-family: 'Muli', Helvetica, sans-serif;
